@@ -1,0 +1,21 @@
+
+{
+  "expo": {
+    "name": "JERO AI",
+    "slug": "jero-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.jerofas.jeroai",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#090611"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
